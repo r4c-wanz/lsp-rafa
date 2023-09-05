@@ -1,0 +1,66 @@
+body {
+    font-family: "Manrope", sans-serif;
+}
+
+.login {
+    background: #ffffff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+    padding: 20px;
+    height: 580px;
+    border-radius: 10px;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+
+.page-login .content h3,
+.page-login .content .h3 {
+    margin-top: 30px;
+    font-size: 21px;
+    width: 95%;
+    margin-left: 30px;
+    font-weight: 600;
+    color: #141b21;
+}
+
+.page-login p {
+    margin-left: 30px;
+}
+
+.page-login .card-login {
+    padding: 15px 18px 20px;
+    border-radius: 12px;
+    background: #ffffff;
+    border: none;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.page-login .card-login .form-control {
+    background: #f7f7f7;
+    border: 1px solid #bac6f2;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+.page-login .card-login .btn-login {
+    color: #ffffff;
+    background: #ff0090;
+    border: none;
+    margin-top: 15px;
+    padding: 8px;
+    border-radius: 12px;
+    font-weight: 500;
+    width: 100%;
+}
+
+.page-login .card-login .text-user {
+    margin-top: 15px;
+}
+
+.page-login .card-login .text-user a {
+    text-decoration: none;
+    color: #ff0090 ;
+    font-size: 14px;
+    font-weight: 300;
+}
